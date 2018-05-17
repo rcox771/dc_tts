@@ -1,0 +1,64 @@
+{
+  "declarative": {
+    "greetings" :[
+      "hello",
+      "hi",
+      "good morning",
+      "good evening",
+      "good night",
+      "its a fine day with you around",
+      "whats up",
+      "I used to be an adventurer like you, then I took an arrow to the knee.",
+      "I am sworn to carry your burdens.",
+      "let me guess. someone stole your sweetroll?",
+      "Do ye get to the cloud district very often?",
+      "no lollygagging"
+    ],
+    "insulting" :[
+      "I know your kind, always sneaking about.",
+      "Hands to yourself, sneak thief.",
+      "Don't think you can barter with me like I'm one of those damned shopkeepers."
+    ],
+    "default": [
+      "I mostly deal with petty thievery and drunken brawls. Been too long since we've had a good bandit raid."
+
+
+
+
+    ]
+  },
+
+  "interrogative": {
+    "default" : [
+      "what is that?",
+      "Why are you out of bed?",
+      "is everything all right?",
+      "Bit late to be wandering around, isn't it?",
+      "What is it? Dragons?"
+    ]
+  },
+  "exclamatory": {
+    "default": [
+
+
+    ]
+  },
+
+  "imperative": {
+
+    "requests":[
+
+    ],
+    "demands":[
+      "by order of the yarl, stop right there"
+    ]
+
+
+  }
+
+
+
+
+
+
+}
